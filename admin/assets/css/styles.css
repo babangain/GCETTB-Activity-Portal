@@ -1,0 +1,84 @@
+h1#adm-h{
+  text-align:center;
+  background-color:rgba(132,195,252,0.65);
+  font-size:40px;
+  font-family:imprint MT shadow;
+}
+
+div#usr-txt{
+  height:40px;
+  width:100px;
+  padding:5px;
+  background-color:#D6FDFB;
+  border-radius:10px;
+  font-family:cambria;
+  font-size:20px;
+  border:2px outset;
+  margin-bottom:2px;
+}
+
+div#input{
+  height:50px;
+  width:70%;
+}
+
+div#usr-id{
+  height:60px;
+}
+
+div#sp{
+  height:25px;
+}
+
+div#pas-txt{
+  height:40px;
+  width:116px;
+  padding:5px;
+  background-color:#D6FDFB;
+  border-radius:10px;
+  font-family:cambria;
+  font-size:20px;
+  border:2px outset;
+  margin-bottom:2px;
+}
+
+div#pass-input{
+  width:70%;
+  height:50px;
+}
+
+div#paswrd{
+  height:60px;
+}
+
+div.form-group{
+  height:350px;
+  border:5px outset;
+  background-color:rgba(245,190,255,0.3);
+  margin-left:15%;
+  margin-right:15%;
+  padding-top:5%;
+  padding-left:25%;
+}
+
+input.form-control{
+  height:40px;
+}
+
+button.btn.btn-default{
+  margin-top:50px;
+}
+
+div#h{
+  text-align:center;
+  font-family:tahoma;
+  background-color:rgba(238,247,188,0.83);
+}
+
+img{
+  height:100px;
+  width:120px;
+  margin-left:45%;
+  margin-bottom:5px;
+}
+

@@ -1,0 +1,150 @@
+h1#H{
+  text-align:center;
+  background-color:skyblue;
+  border:1px solid;
+  border-radius:10px;
+}
+
+div#head{
+  height:100px;
+  width:890px;
+  border:1px solid;
+  background-color:SKYBLUE;
+}
+
+img#clg-lg{
+  height:98px;
+  width:111px;
+  float:left;
+}
+
+h1#clg-nm{
+  margin-left:111px;
+  text-align:center;
+  width:750px;
+  height:100px;
+  font-family:ALGERIAN;
+}
+
+div#whol-frm{
+  width:900px;
+  height:auto;
+  border:2px dashed;
+  margin-top:20px;
+  margin-left:16%;
+  background-color:white;
+	margin-bottom: 20px;
+}
+
+div#FORM-ALL{
+  width:auto;
+  height:auto;
+}
+
+h2#heading{
+  text-align:center;
+  height:40px;
+  width:890px;
+  background-color:pink;
+}
+
+div#frm-h{
+  height:40px;
+  width:900px;
+}
+
+div#div-1{
+  width:700px;
+  height:auto;
+  margin-left:90px;
+  border:1px outset;
+}
+
+body{
+  background-color:grey;
+}
+
+span{
+  margin:20px;
+  height:30px;
+  font-size:20px;
+  background-color:#FFC9FF;
+  border-radius:5px;
+}
+
+input{
+  height:30px;
+  width:400px;
+  margin-left:20px;
+  margin-bottom:20px;
+  margin-top:30px;
+  border-radius:10px;
+  background-color:#D5FAFF;
+}
+
+p{
+  height:30px;
+  width:210px;
+  float:left;
+  margin-left:30px;
+  font-size:20px;
+  font-family:cambria;
+  border-radius:5px;
+  padding-left:5px;
+  margin-top:30px;
+}
+
+textarea#pgr-details{
+  margin:30px;
+  height:100px;
+  width:350px;
+  background-color:#F8FFEC;
+}
+
+div#div-2{
+  width:700px;
+  height:auto;
+  margin-left:90px;
+  border:1px outset;
+  margin-top:20px;
+}
+
+div#div-3{
+  width:600px;
+  height:60px;
+  margin-left:135px;
+  border:1px outset;
+  border-radius:20px;
+  margin-top:10px;
+}
+
+button.btn.btn-default{
+  margin-left:150px;
+  margin-top:10px;
+}
+
+p#ct{
+  border:1px dashed;
+  height:40px;
+  width:420px;
+  margin:0px;
+  font-family:arial;
+  text-align:center;
+  margin-left:250px;
+  font-size:18px;
+  background:orange;
+}
+
+a#ins-cat.btn.btn-default{
+  margin-left:20px;
+}
+
+div#sss{
+  width:900px;
+  height:100px;
+}
+
+select{
+  margin:30px;
+}
+

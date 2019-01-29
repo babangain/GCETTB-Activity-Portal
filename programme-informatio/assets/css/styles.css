@@ -1,0 +1,160 @@
+div#hd{
+  text-align:center;
+  background-color:skyblue;
+  border-radius:10px;
+  width:100%;
+}
+
+img#clg-lg{
+  height:150px;
+  width:160px;
+  margin-left:30%;
+	align-self: center;
+}
+
+div#ccc{
+  height:auto;
+  width:100%;
+}
+
+div#carousel-1.carousel.slide{
+  width:100%;
+  height:auto;
+  border-radius:10px;
+  border:3px dotted;
+}
+
+p#rcnt-pgr-nm{
+  text-align:center;
+  font-size:25px;
+  background-color:rgba(255,165,0,0.51);
+  border-radius:10px;
+  margin-top:10px;
+}
+
+h1#pgr-nm{
+  text-align:center;
+  background-color:rgba(255,165,0,0.37);
+}
+
+h1#clg-as{
+  text-align:center;
+  background-color:rgba(137,135,235,0.27);
+}
+
+h1#D{
+  text-align:center;
+  color:blue;
+
+}
+
+h1#DD{
+  text-align:center;
+  background-color:rgba(255,192,203,0.47);
+  margin-top:0px;
+}
+
+h1#ASSOC{
+  text-align:center;
+  color:rgb(181,26,138);
+
+}
+
+h1#COMPNAM{
+  text-align:center;
+  background-color:rgba(135,145,235,0.28);
+}
+
+h1#inv-exp{
+  text-align:center;
+  color:rgb(66,194,34);
+
+}
+
+h1#exp_names{
+  text-align:center;
+  background:rgba(255,0,0,0.18);
+}
+
+th{
+  height:70px;
+  width:150px;
+  color:blue;
+  text-align:center;
+  font-size:20px;
+}
+
+td{
+  width:70px;
+  height:auto;
+}
+
+div.table-responsive{
+  border:2px solid;
+  margin-top:50px;
+  border-radius:10px;
+}
+
+div#programme-details{
+  width:100%;
+  height:auto;
+  border:1px solid;
+}
+
+h1#prg-dtl{
+  text-align:center;
+  color:rgb(205,9,9);
+  background:rgba(255,255,0,0.54);
+}
+
+h1#org{
+  text-align:center;
+  color:RED;
+
+}
+
+p#PGR-DETL-PARAGRAPH{
+  color:blue;
+}
+
+div#sr{
+  height:auto;
+  width:40%;
+  border:2px dotted;
+  margin-right:20%;
+  overflow:auto;
+  float:left;
+  margin-bottom:10%;
+}
+
+div#br{
+  height:auto;
+  width:40%;
+  border:2px dotted;
+  overflow:auto;
+  margin-bottom:10%;
+}
+
+p#pgr-sr{
+  text-align:center;
+  font-size:20px;
+  color:red;
+}
+
+p#Programme-serial-no{
+  color:green;
+  text-align:center;
+}
+
+p#pgr-br{
+  text-align:center;
+  font-size:20px;
+  color:red;
+}
+
+p#programme-brochure{
+  text-align:center;
+  font-size:15px;
+  color:green;
+}
+

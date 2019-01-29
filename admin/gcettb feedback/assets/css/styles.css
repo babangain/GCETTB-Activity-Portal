@@ -1,0 +1,30 @@
+img#clgbnr{
+  height:auto;
+  width:100%;
+}
+
+div#clgbn{
+  height:auto;
+  width:100%;
+}
+
+h1{
+  text-align:center;
+  border:1px solid;
+  margin-bottom:5%;
+}
+
+table, th, tr,td {
+	border: 1px solid;
+	border-collapse: collapse;
+	text-align: center;
+	font-size: 17px;
+}
+
+tr{
+	height: 50px;
+}
+
+th{
+	background-color: bisque;
+}

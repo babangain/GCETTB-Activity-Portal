@@ -1,0 +1,137 @@
+img#clg-logo{
+  height:100px;
+  width:120px;
+  float:left;
+}
+
+div#clg-ban{
+  height:auto;
+  width:100%;
+  border:2px outset;
+  text-align:center;
+  margin-top:10px;
+}
+
+h1#clg-nm{
+  font-family:algerian;
+  color:blue;
+}
+
+div#tag-line{
+  width:100%;
+  height:auto;
+  background-color:rgba(255,192,203,0.48);
+  border-radius:10px;
+}
+
+h1#tag{
+  text-align:center;
+  font-size:30px;
+}
+
+div#MRQ{
+  width:100%;
+  height:auto;
+  background-color:rgba(113,247,150,0.29);
+}
+
+p#marquee-text{
+  font-family:cambria;
+  font-size:20px;
+}
+
+div#frm-frame{
+  width:100%;
+  height:auto;
+}
+
+div#tab-1.tab-pane{
+  height:auto;
+  width:100%;
+  background:rgba(245,224,116,0.21);
+}
+
+p#gcettb-frm{
+  text-align:center;
+  font-size:30px;
+  font-family:cambria;
+}
+
+div#GCETTBIAN{
+  height:auto;
+  width:auto;
+  margin-left:2%;
+  margin-right:2%;
+  border:3px solid rgb(193,186,238);
+  padding-top:5%;
+  margin-bottom:5%;
+  padding-bottom:2%;
+  border-radius:20px;
+  background:#fdfbfe;
+}
+
+div#publicpp{
+  height:auto;
+  width:auto;
+  margin-left:2%;
+  margin-right:2%;
+  border:3px solid rgb(193,186,238);
+  padding-top:5%;
+  margin-bottom:5%;
+  padding-bottom:2%;
+  border-radius:20px;
+  background:#fffeff;
+}
+
+#p1{
+  height:auto;
+  width:330px;
+  font-size:20px;
+  float:left;
+  margin-bottom:20px;
+  margin-left:20%;
+	
+}
+
+input.form-control{
+  height:auto;
+  width:250px;
+  margin-bottom:20px;
+  background-color:rgba(0,178,255,0.08);
+}
+
+select.form-control{
+  height:auto;
+  width:250px;
+  margin-bottom:20px;
+  background:rgba(255,165,0,0.14);
+}
+
+textarea.form-control{
+  height:150px;
+  width:400px;
+  margin-bottom:20px;
+  background:rgba(193,255,192,0.25);
+}
+
+
+
+
+p#atn{
+  text-align:center;
+  color:white;
+  font-size:17px;
+  background:rgb(117,125,193);
+  border-radius:5px;
+}
+
+p#public{
+  text-align:center;
+  font-size:30px;
+  font-family:cambria;
+}
+
+div#tab-2.tab-pane.active{
+  background:rgba(217,96,96,0.09);
+}
+
